@@ -32,7 +32,7 @@ Setup
 Clone the repository to your local machine:
 bash
 
-git clone https://github.com/yourusername/jarvis-voice-assistant.git
+git clone https://github.com/bablookumarmuz/Jarvis-Voice-Assistance
 Install the required dependencies using pip:
 bash
 
